@@ -6,7 +6,7 @@ Readme In that Folder.
 
 
 2.]SQL_CONN.py can be executed directly from command prompt,Visual Studios,PyCharm.This Program is Just a Normal Program of Database Operations
-But Dont Forget To Install PyMySQL Library
+But Dont Forget To Install PyMySQL Library or sqlite3 as per your choice,But if you install sqlite3,then just change the line import pymysql to import sqlite3 and also the pymysql.connect("Same") to sqlite3.connect("Same")
 
 
 NOTE:You Can Choose Anyone Or Both As per your Choice Of Requirements
