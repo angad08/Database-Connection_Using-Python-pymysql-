@@ -9,4 +9,4 @@ Readme In that Folder.
 But Dont Forget To Install PyMySQL Library or sqlite3 as per your choice,But if you install sqlite3,then just change the line import pymysql to import sqlite3 and also the pymysql.connect("Same") to sqlite3.connect("Same")
 
 
-NOTE:You Can Choose Anyone Or Both As per your Choice Of Requirements
+NOTE:You Can Choose Anyone Or Both As per your Choice Of Requirements. And Most importantly create your own gmail id for smtplib and replace blumphyruss email with yours and turn allow less secure apps ON then only mails will work.
